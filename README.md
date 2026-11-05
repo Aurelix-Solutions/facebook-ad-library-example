@@ -5,6 +5,10 @@
 
 A small, runnable example for [Facebook Ad Library Scraper](https://apify.com/aurelix/facebook-ad-library-scraper), an Apify Actor by Aurelix.
 
+[![Facebook Ad Library Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Facebook Ad Library Scraper turns ads in the public Meta Ad Library into clean rows: advertiser page, ad text, headline, landing page, button, image and video links, carousel cards, start and stop dates, platforms and active status. Search by keyword, Facebook page ID or an Ad Library URL copied from your browser, and filter by country, active status and media type. Political and issue ads and ads from personal pages are dropped before you pay, and the per-query limit is exact.
