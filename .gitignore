@@ -1,0 +1,5 @@
+# PUBLISH AFTER: facebook-ad-library is public on the Apify Store
+results.csv
+.env
+__pycache__/
+.venv/
