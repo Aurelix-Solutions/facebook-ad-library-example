@@ -1,9 +1,19 @@
 <!-- PUBLISH AFTER: facebook-ad-library is public on the Apify Store -->
 # Facebook Ad Library Scraper: Python example
 
-> Facebook Ad Library Scraper is being prepared for the Apify Store. The link below goes live when it is published.
+**The problem:** You want to see the ads your competitors run on Facebook and Instagram in a spreadsheet, and know when new ones appear.
 
-A small, runnable example for [Facebook Ad Library Scraper](https://apify.com/aurelix/facebook-ad-library-scraper), an Apify Actor by Aurelix.
+**The tool:** [Facebook Ad Library Scraper](https://apify.com/aurelix/facebook-ad-library-scraper), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $0.70 per 1,000 ads on Apify's free plan and $0.60 on paid plans, plus $0.003 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 [![Facebook Ad Library Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-v1.mp4)
 
