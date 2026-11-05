@@ -1,0 +1,2 @@
+# PUBLISH AFTER: facebook-ad-library is public on the Apify Store
+apify-client
