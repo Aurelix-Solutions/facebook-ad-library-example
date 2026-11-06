@@ -1,3 +1,5 @@
+**Facebook Ad Library Search & API - Meta Ads to CSV.** Facebook and Instagram business ads from the Meta Ad Library: copy, creatives, landing pages, dates, optional EU reach. Price, example input and output, and FAQ: [Facebook Ad Library Search & API on the Aurelix tools site](https://aurelix-solutions.github.io/tools/facebook-ad-library-scraper/). Run it on the Apify Store: [apify.com/aurelix/facebook-ad-library-scraper](https://apify.com/aurelix/facebook-ad-library-scraper).
+
 <!-- PUBLISH AFTER: facebook-ad-library is public on the Apify Store -->
 # Facebook Ad Library Scraper: Python example
 
@@ -15,7 +17,7 @@ export APIFY_TOKEN=your_token_here
 python main.py
 ```
 
-[![Facebook Ad Library Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-v1.mp4)
+[![Facebook Ad Library Search & API: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-v1.mp4)
 
 **[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/facebook-ad-library-scraper-demo-v1.mp4)**
 
